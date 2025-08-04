@@ -29,7 +29,7 @@ export default function Header({ user }) {
         <div className="flex justify-between items-center h-16">
           {/* Logo */}
           <div className="flex items-center">
-            <div>h</div>
+
             <Link href="/agriculteur/dashboard" className="flex items-center space-x-2">
               <div className="bg-primary-500 p-2 rounded-lg">
                 <Sprout className="h-6 w-6 text-white" />
